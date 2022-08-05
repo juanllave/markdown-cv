@@ -1,23 +1,22 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Juan Lozano Vallejo
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Juan Lozano Vallejo
+Project Manager | Communications Strategist
 
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<div id="juanlozano.me">
+<a href="juan.lozanovallejo@gmail.com">juan.lozanovallejo@gmail.com</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Volunteer Coordinator
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Canvassing, volunteer engagement, 
 
 
 ### Research interests
@@ -27,8 +26,9 @@ Cooling, power series, optics, alchemy, planetary motions, apples.
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2022-2023`
+Diploma in Business Admininistration
+__Southern Alberta Institute of Techonology, Calgary, AB__
 
 `June 1661 - now`
 __Trinity College, Cambridge__
