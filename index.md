@@ -10,13 +10,15 @@ Project Manager | Communications Strategist
 </div>
 
 
-## Currently
+## Summary of Qualifications
+- Fluent in English and Spanish, with great communication skills in both languages
+- Efficient multitasker and team player with excellent time and organizational skills
+- Proficient analyst, capable of synthesizing large amounts of information into condensed, well crafted reports
+- Expertise in developing, implementing and evaluating communication strategies
+- Great strategic problem solving
+- Profound quantitative and qualitative research experience
+- Personable, tactful, discreet, and professional, skilled at client relations
 
-Volunteer Coordinator, Samir Kayande, NDP's MLA Candidate for Calgary-Elbow
-
-### Specialized in
-
-Canvassing, volunteer engagement, 
 
 ## Work Experience
 `Jan 2015 - Dec 2021`<br/>
