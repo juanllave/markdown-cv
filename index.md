@@ -12,16 +12,14 @@ Project Manager | Communications Strategist
 
 ## Currently
 
-Volunteer Coordinator
+Volunteer Coordinator, Samir Kayande, NDP's MLA Candidate for Calgary-Elbow
 
 ### Specialized in
 
 Canvassing, volunteer engagement, 
 
 
-### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
 
 
 ## Education
@@ -30,8 +28,17 @@ Cooling, power series, optics, alchemy, planetary motions, apples.
 Diploma in Business Admininistration
 __Southern Alberta Institute of Techonology, Calgary, AB__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2017`
+Diploma in Project Management
+__ITESO–Jesuit University in Guadalajara, Guadalaara, MX__
+
+`2012-2014`
+Master of Arts in Political Sociology
+__Instituto de Investigaciones Dr. José María Luis Mora, Mexico City, MX__
+
+`2008-2012`
+Bachelor of Arts in Communications
+__ITESO–Jesuit University in Guadalajara, Guadalaara, MX__
 
 - Sizar
 
