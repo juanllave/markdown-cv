@@ -23,7 +23,7 @@ Project Manager | Communications Strategist
 #### Job Searcher
 Multide of Places, Calgary, AB
 - Sent 50+ unsuccessful job applications to employers
-- Mastered the art of the feeling rejected and empty
+- Mastered the art of feeling rejected and empty
 - Gained perspective on the importance of building specific resumes
 - Broadened my professional network in a new city
 
@@ -40,7 +40,7 @@ eu~zen Consultants, Guadalajara, MX
 Government of Jalisco, Guadalajara, MX
 - Misunderstood several assignments, leading to time wasted in pointless activities
 - Embraced the importance of asking questions in order to be more efficient
-- Stumbled my way to a high position to masterfully cope with impostor syndrome
+- Stumbled my way to a high-level position to masterfully cope with impostor syndrome
 - Failed at communicating priorities clearly, leading to overtime and asking staff to remain in office after hours
 - Gained valuable skills such as personnel and time management
 
@@ -65,8 +65,8 @@ __University of Guadalajara, Guadalaara, MX__
 
 
 ## Volunteer Involvement
-`Since April 2022`<br/>
-#### Peer Mentorship Program
+`2022`
+Peer Mentorship Program,
 __Southern Alberta Institute of Techonology, Calgary, AB__
 - Failed to engage with mentee
 - Realized I might have had too much on my plate
@@ -74,6 +74,6 @@ __Southern Alberta Institute of Techonology, Calgary, AB__
 
 <!-- ### Footer
 
-Last updated: September 2022 -->
+Last updated: September 2024 -->
 
 
